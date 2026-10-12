@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.pt
+*.h5
+*.hdf5
+*.mat
+*.fig
+*.png
+*.pdf
+*.tar
+*.tar.gz
+*.zip
+runs/
+logs/

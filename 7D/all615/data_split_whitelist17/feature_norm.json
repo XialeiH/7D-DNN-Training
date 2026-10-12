@@ -1,0 +1,82 @@
+{
+  "Contrast": {
+    "domain_max": 95.0,
+    "domain_min": 0.0,
+    "mean": 44.78713093487352,
+    "std": 32.57217571825072
+  },
+  "L4E": {
+    "domain_max": 48000.0,
+    "domain_min": 0.0,
+    "mean": 27156.147273464234,
+    "std": 13150.58453265433
+  },
+  "L4I": {
+    "domain_max": 35606.1796875,
+    "domain_min": 217.10443115234375,
+    "mean": 18569.40361055082,
+    "std": 7195.0994567065745
+  },
+  "L6": {
+    "domain_max": 40.0,
+    "domain_min": 1.0,
+    "mean": 20.06878894815474,
+    "std": 11.168417714750047
+  },
+  "OriCos2": {
+    "domain_max": 1.0,
+    "domain_min": -1.0
+  },
+  "count": {
+    "n_train_rows": 805992,
+    "n_train_rows_by_target": {
+      "S": 805992,
+      "C": 831230,
+      "I": 817835
+    }
+  },
+  "feature_names": {
+    "order": [
+      "OriCos2",
+      "Contrast",
+      "L6",
+      "L4E",
+      "L4I",
+      "lgnTF",
+      "lgnSF"
+    ]
+  },
+  "lgnSF": {
+    "domain_max": 10.0,
+    "domain_min": 0.5,
+    "mean": 2.5,
+    "std": 4.744315114057092
+  },
+  "lgnTF": {
+    "domain_max": 32.0,
+    "domain_min": 0.5,
+    "mean": 10.0,
+    "std": 11.04013779943133
+  },
+  "norm_feature_names": {
+    "order": [
+      "Contrast",
+      "L6",
+      "L4E",
+      "L4I",
+      "lgnTF",
+      "lgnSF"
+    ]
+  },
+  "notes": {
+    "lgnSF_default_mean": 2.5,
+    "lgnTF_default_mean": 10.0,
+    "old_norm_source_split": "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/prefavg_variance_final70_smooth2d_20260514_032346/splits_randomrows_low005_upper_seed42_chunked",
+    "oldh96norm": true,
+    "reason": "Preserve 5D h96 identity for original inputs while widening to TF/SF.",
+    "source_split": "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_Iorig7p5_DS10_fixgrid_production_20260713/splits_rows32_keep5pctcase_directall_seed42_tf32",
+    "tfsf_default_centered": true,
+    "tfsf_std_source": "new rows32 no-sparse-fallback split statistics",
+    "sf15_exclusion": "SF15 removed from every split; affine normalization retained for checkpoint compatibility."
+  }
+}

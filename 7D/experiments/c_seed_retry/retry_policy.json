@@ -1,0 +1,23 @@
+{
+  "maximum_attempts": 5,
+  "seeds": [
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "current_seed": 43,
+  "training_job": "19194160",
+  "post_gate": "19194327",
+  "scope": "C only, 1024x4 ReLU",
+  "schedule_minutes": 30,
+  "early_failure": "At least 10 logged epochs; last three val losses flat within 1e-8; last three post-initial gradient records zero for log/relative/TF/SF",
+  "success": "Finite positive-epoch selected checkpoint, validation improvement and recent nonzero fit gradients; wait for terminal before post",
+  "failure_email": "xialei.huang@nyu.edu",
+  "change_only": "Random seed, isolated output paths",
+  "preserved_targets": [
+    "S84",
+    "I65"
+  ]
+}

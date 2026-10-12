@@ -1,0 +1,7 @@
+# Dependency names from retained code; not an exact historical environment lock.
+numpy
+scipy
+h5py
+torch
+matplotlib
+Pillow

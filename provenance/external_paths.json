@@ -1,0 +1,258 @@
+{
+  "note": "Lexical inventory of historical source paths. Some contain code fragments or variables; inspect the source before rebinding. Not all paths are required by every workflow.",
+  "files": {
+    "7D/experiments/smoothness/verify_pre_submit.py": [
+      "/home/xh2906/librarySCI_smooth_finetune_20261004"
+    ],
+    "7D/experiments/smoothness/prepare_submit.py": [
+      "/home/xh2906/librarySCI_active_training",
+      "/home/xh2906/librarySCI_smooth_finetune_20261004",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h512x5_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu"
+    ],
+    "7D/experiments/smoothness/code/train_sixd_single_longrun.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/C_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/I_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/S_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/librarySCI_runs"
+    ],
+    "7D/experiments/smoothness/posttraining/audit_saved_outputs.py": [
+      "/home/xh2906/librarySCI_smooth_finetune_20261004/posttraining_setup/trials.json"
+    ],
+    "7D/experiments/smoothness/posttraining/launch_smooth_post.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/h96_tfsf7d_log_variant_20260727/submit_runtime_tuning_curves.py",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_extra50_full_libequ70_20260905",
+      "/scratch/xh2906/representative_full_library_192_20260913/equilibrium_ready13",
+      "/scratch/xh2906/smooth7_representative192_20260919"
+    ],
+    "7D/experiments/smoothness/posttraining/checkpoint_gate.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/experiments/smoothness/posttraining/attach_post.py": [
+      "/home/xh2906/librarySCI_active_posttraining",
+      "/home/xh2906/librarySCI_active_posttraining/",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu/posttraining_7d_tf32_globalall7"
+    ],
+    "7D/experiments/architecture/submit_trials.py": [
+      "/home/xh2906/librarySCI_activation_lr_trials_20261004",
+      "/home/xh2906/librarySCI_active_training",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs"
+    ],
+    "7D/experiments/architecture/submit_variants.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h512x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261002_original_loss"
+    ],
+    "7D/experiments/architecture/verify_trials.py": [
+      "/home/xh2906/librarySCI_activation_lr_trials_20261004"
+    ],
+    "7D/experiments/c_seed_retry/launch_retry_post.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/h96_tfsf7d_log_variant_20260727/submit_runtime_tuning_curves.py",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_extra50_full_libequ70_20260905",
+      "/scratch/xh2906/representative_full_library_192_20260913/equilibrium_ready13",
+      "/scratch/xh2906/smooth7_representative192_20260919"
+    ],
+    "7D/experiments/c_seed_retry/audit_saved_retry.py": [
+      "/home/xh2906/librarySCI_C_seed_retry/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu_Cseed43_20261005"
+    ],
+    "7D/experiments/c_seed_retry/checkpoint_gate.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/experiments/c_seed_retry/recover_retry_archive_20261005.py": [
+      "/home/xh2906/librarySCI_C_seed_retry/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu_Cseed43_20261005",
+      "/home/xh2906/librarySCI_C_seed_retry/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu_Cseed43_20261005/posttraining_7d_tf32_globalall7",
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/experiments/c_seed_retry/submit_C_retry.py": [
+      "/home/xh2906/librarySCI_C_seed_retry",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu"
+    ],
+    "7D/experiments/c_seed_retry/attach_retry_post.py": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/7D",
+      "/home/xh2906/librarySCI_C_seed_retry",
+      "/home/xh2906/librarySCI_active_posttraining",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu"
+    ],
+    "7D/posttraining/launch_trial_post.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/h96_tfsf7d_log_variant_20260727/submit_runtime_tuning_curves.py",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_extra50_full_libequ70_20260905",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h512x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261002_original_loss/posttraining_7d_tf32_globalall7/code",
+      "/scratch/xh2906/representative_full_library_192_20260913/equilibrium_ready13",
+      "/scratch/xh2906/smooth7_representative192_20260919"
+    ],
+    "7D/posttraining/attach_post.py": [
+      "/home/xh2906/librarySCI_activation_lr_trials_20261004",
+      "/home/xh2906/librarySCI_active_posttraining",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h512x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261002_original_loss/posttraining_7d_tf32_globalall7/code"
+    ],
+    "7D/posttraining/representative_source/dense_nn_driver.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/Paper3PlotingData/Angle"
+    ],
+    "7D/posttraining/template_code/finalize_global_smooth_posttraining.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/posttraining/template_code/submit_dense.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/posttraining/template_code/submit_runtime_tuning_curves_quota.py": [
+      "/scratch/xh2906/librarySCI_runs/"
+    ],
+    "7D/posttraining/template_code/submit_archive.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/posttraining/template_code/prepare_submit_logtfsf_atlas102.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Utils",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/h96_tfsf7d_log_variant_20260727",
+      "/scratch/xh2906/librarySCI_runs/"
+    ],
+    "7D/posttraining/template_code/dense_nn_driver.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/Paper3PlotingData/Angle",
+      "/scratch/xh2906/NYU-Vision-2Drive-main"
+    ],
+    "7D/posttraining/template_code/build_submit_logtfsf_atlas102.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main",
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/librarySCI_runs/"
+    ],
+    "7D/posttraining/template_code/submit_runtime_dense_tuning.py": [
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h1024x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261004_original_loss_relu/posttraining_7d_tf32_globalall7/code/submit_runtime_tuning_curves_quota.py",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_tf32_tailpair_selected_1000ep_20260911_104654/posttraining_savedbest_20260912/posttraining_7d_tf32_globalall7/dense_tuning_smoke/parity_verified.json"
+    ],
+    "7D/posttraining/reference_atlas/eigenvalue_7D_tfsf_loop_only_equilibrium_single_condition.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/",
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/Paper3PlotingData/Angle",
+      "/scratch/xh2906/NYU-Vision-2Drive-main",
+      "/scratch/xh2906/librarySCI_runs/library_only_70_fullnods_oldform_mlxorder_20260511_104242/fullnods_smooth2d_contr14_24_20260514_025512",
+      "/scratch/xh2906/librarySCI_runs/sixd_prefAngle_cosonly_masked_bs8192_steps40_rmse1_rel3_low005_mono0p1_regen_masked_newsplit_tanh3_mixedmask_S30_C100_I140_randomrowsplit_drcorrected_20260328_231201_lowcontrast_allfix_test_20260423_095028/hpc_runtime_bundle/equilibrium_14_lowcontrast_precomputed_nnorder_20260426_105149",
+      "/scratch/xh2906/librarySCI_runs/sixd_prefAngle_cosonly_masked_bs8192_steps40_rmse1_rel3_low005_mono0p1_regen_masked_newsplit_tanh3_mixedmask_S30_C100_I140_randomrowsplit_drcorrected_20260328_231201_lowcontrast_allfix_test_20260423_095028/hpc_runtime_bundle/equilibrium_3_lowcontrast_allperm_20260426_113729"
+    ],
+    "7D/posttraining/reference_atlas/run_case.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h512x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261002_original_loss/posttraining_7d_tf32_globalall7/atlas_139",
+      "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h512x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20261002_original_loss/posttraining_7d_tf32_globalall7/atlas_139/runtime_h96iter"
+    ],
+    "7D/all615/submit_historical.py": [
+      "/Users/xialeihuang/.ssh/torch-codex-cm",
+      "/scratch/xh2906/conda/envs/py310/bin/python"
+    ],
+    "7D/all615/source_trainer.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/C_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/I_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/S_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/librarySCI_runs"
+    ],
+    "7D/all615/code/source_simulator_original.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main",
+      "/scratch/xh2906/h96_tf_sf_7d_dataset_plan_20260702_045654/matlab_tmp"
+    ],
+    "7D/all615/code/run_ds10_all615.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main",
+      "/scratch/xh2906/h96_tf_sf_7d_dataset_plan_20260702_045654/matlab_tmp"
+    ],
+    "7D/all615/code/train_sixd_single_longrun.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/C_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/I_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/S_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/librarySCI_runs"
+    ],
+    "7D/all615/code/pipeline.py": [
+      "/scratch/xh2906/conda/envs/py310/bin/python",
+      "/scratch/xh2906/training_source_equilibria_20260913/cases.json"
+    ],
+    "7D/all615/code/preflight.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main"
+    ],
+    "Previous 5D training/historical_jobs/submit_sixd_h96_arch_variants_20260522.sh": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/prefavg_variance_final70_smooth2d_20260514_032346/chunks_S/S_case001_Ang0.00_Contr14_full70Small.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/prefavg_variance_final70_smooth2d_20260514_032346/splits_randomrows_low005_upper_seed42_chunked",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/python-training_DNN/sixd_prefAngle",
+      "/scratch/xh2906/conda/envs/py310/bin:\\$PATH",
+      "/scratch/xh2906/librarySCI_runs",
+      "/scratch/xh2906/librarySCI_runs/sixd_prefAngle_varaware_singlemlp_h96_final70_smooth2d_low005_stratmid_torch_20260518_044134",
+      "/scratch/xh2906/pip-cache",
+      "/scratch/xh2906/tmp"
+    ],
+    "Previous 5D training/code/sixD_trainingdata_generation_prefavg_variance.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/Paper3PlotingData"
+    ],
+    "Previous 5D training/code/run_sixD_prefavg_variance_chunk_array.sh": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data",
+      "/scratch/xh2906/logs",
+      "/scratch/xh2906/logs/%x_%A_%a.err",
+      "/scratch/xh2906/logs/%x_%A_%a.out"
+    ],
+    "Previous 5D training/code/sixD_trainingdata_generation_prefavg_variance_chunk.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/Paper3PlotingData"
+    ],
+    "Previous 5D training/code/run_build_sixd_random_split_prefavg_variance.sh": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/prefavg_variance_DS10_21contr_${STAMP",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/python-training_DNN/sixd_prefAngle",
+      "/scratch/xh2906/conda/envs/py310/bin:$PATH",
+      "/scratch/xh2906/librarySCI_logs",
+      "/scratch/xh2906/librarySCI_logs/%x_%j.err",
+      "/scratch/xh2906/librarySCI_logs/%x_%j.out"
+    ],
+    "Previous 5D training/code/train_sixd_single.py": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/C_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/I_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data/S_allLGN_prefAngleSymm_6D_allOrientation_allContrasts_part.mat",
+      "/scratch/xh2906/librarySCI_runs"
+    ],
+    "Previous 5D training/code/run_sixD_trainingdata_generation_prefavg_variance_target.sh": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/6D_training_data",
+      "/scratch/xh2906/logs",
+      "/scratch/xh2906/logs/%x_%j.err",
+      "/scratch/xh2906/logs/%x_%j.out"
+    ],
+    "Previous 5D training/code/run_train_sixd_target_splitdir_mat.sh": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main/python-training_DNN/sixd_prefAngle",
+      "/scratch/xh2906/conda/envs/py310/bin:$PATH",
+      "/scratch/xh2906/librarySCI_logs",
+      "/scratch/xh2906/librarySCI_logs/%x_%j.err",
+      "/scratch/xh2906/librarySCI_logs/%x_%j.out",
+      "/scratch/xh2906/pip-cache",
+      "/scratch/xh2906/tmp"
+    ],
+    "Previous 5D training/manuscript_examples/Figure_1F.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/",
+      "/scratch/xh2906/librarySCI_runs/figure1g2_dense_cold_equilibrium_20260829/results"
+    ],
+    "Previous 5D training/manuscript_examples/Figure_3C.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project"
+    ],
+    "Previous 5D training/manuscript_examples/Figure_0A.m": [
+      "/Users/xialeihuang/.codex/repositories/Spectral_Analysis_V1",
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/local_h96_manual_runtime"
+    ],
+    "Previous 5D training/manuscript_examples/Figure_1E.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/",
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/1_Neural_Network_Surrogate/Figure_1F_1"
+    ],
+    "Previous 5D training/posttraining/evaluate_h96_premodel_pairs.m": [
+      "/scratch/xh2906/librarySCI_runs/"
+    ],
+    "Previous 5D training/posttraining/simulate_paper2_snn_pixels.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main"
+    ],
+    "Previous 5D training/posttraining/submit_paper2_h96_figure_validation.sh": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main",
+      "/scratch/xh2906/librarySCI_runs/sixd_prefAngle_varaware_singlemlp_h96_final70_smooth2d_low005_stratmid_torch_20260518_044134/hpc_runtime_bundle_extended_corrected_h96_ikp7_l6p5_matchedlib_20260702_010052"
+    ],
+    "Previous 5D training/library_reference/Paper3b_0_FuncPrepare_fullnods_smooth2d_one.m": [
+      "/scratch/xh2906/NYU-Vision-2Drive-main"
+    ],
+    "Previous 5D training/library_reference/eigenvalue_6D_library_only_70_fullnods_smooth2d.m": [
+      "/Users/xialeihuang/Desktop/Neuroscience_Project/Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/Data/Paper2_NetworkTuning/Fig1V4/Paper3PlotingData/Angle",
+      "/scratch/xh2906/NYU-Vision-2Drive-main"
+    ]
+  }
+}

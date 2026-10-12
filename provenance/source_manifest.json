@@ -1,0 +1,714 @@
+{
+  "created": "2026-10-12",
+  "source_root": "Neuroscience_Project",
+  "files": [
+    {
+      "path": "7D/all615/code/build_all615.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/build_all615.py",
+      "sha256": "92545bf83a8f8129d42a8af32ec6e26d58bee02bdde444d1e3f9f3cae4fcd66d",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/common.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/common.py",
+      "sha256": "1dd8e47dc2a744dba4b52603c3c40ca22ae16b6e3650a858e58664f6759c3439",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/dataset_hdf5.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/dataset_hdf5.py",
+      "sha256": "cda665f9bb583b79d5b9cc1e931e750455ff0234419614c66d89e5143a99f359",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/pipeline.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/pipeline.py",
+      "sha256": "af89552d21ee0925c54e63a1fb7008e20be1e240f95f5e2d068752d0baadb10d",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/preflight.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/preflight.py",
+      "sha256": "ba4841578a0de43cd9b7b5c4154d27534119ec6ecdbfce550ba88f0137837ea6",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/run_ds10_all615.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/run_ds10_all615.m",
+      "sha256": "c19f9878398c7b0dcc61869d3e69700714389619480200789d3995f8f4ce9c98",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/run_source_unit.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/run_source_unit.py",
+      "sha256": "d9161ded97386c0e647dcdb3682671424895f853c24951cb5b8005541577d3e5",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/source_bundle.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/source_bundle.py",
+      "sha256": "5d3de92203860b546fc64b50b2e4163acaf12536abd77a5059dd0823209dfe09",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/source_completion.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/source_completion.py",
+      "sha256": "38d4edb881493d74e4b276ef47ca747da13f69bc82e71f6f256a43d91c5259e1",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/source_simulator_original.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/source_simulator_original.m",
+      "sha256": "7c2a20a8bed7697e617b9892f2cb25f9ef69ef07c3335e088d610a1a9cabb144",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/test_original_loss.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/test_original_loss.py",
+      "sha256": "49c7636daf41e3b73cfea28a706defcc791bff59b60396c101a559e3afce1732",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/test_source_contract.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/test_source_contract.py",
+      "sha256": "8c8cb9e6871a06630de9ff03b08fe7085838428052a68685f7d2584f141d401c",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/test_whitelist.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/test_whitelist.py",
+      "sha256": "2dece0ee929016754f25ce3469ff314eab2c8d7345a82a78c55cf5ea7e0fe034",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/train_lowtfsf_grad01.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/train_lowtfsf_grad01.py",
+      "sha256": "7204b78d69a9556fc9214ef9e6c97e9394107aec58442c242d0e187c66d7d0ee",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/train_sixd_single_longrun.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/train_sixd_single_longrun.py",
+      "sha256": "9d93ee2e510832eb6f86948c80a05f5622dca479ce9754839279a6c3f2f11220",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/code/whitelist_pairs.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/code/whitelist_pairs.py",
+      "sha256": "a7f5dd93f631d9bef9e33c1636d62be44efe560e01668b48672b28f5657946a7",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/plan.json",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/plan.json",
+      "sha256": "4f66ac3c4572cff0ac1fb6e059779a18add9e8cc7af767f3e63e7f5d5d32a2a0",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/source_trainer.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/source_trainer.py",
+      "sha256": "4591b3270548b89479d1814d3573ff6279278bff697d67bc97a49d26f4d038e5",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/data_split_whitelist17/feature_norm.json",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/data_split_whitelist17/feature_norm.json",
+      "sha256": "b34059b1260e5d7003ac8d642425c689b83c96e745247702b5ca2ae82bc91b0f",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/all615/submit_historical.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/whitelist17_all615_original_loss_20260928/submit.py",
+      "sha256": "7c95ff5dafad97f8cf5787d5284f5115af1b3f3b632a4244c7a8e9ed9a909898",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/architecture/submit_variants.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_architecture_variants_20261003/submit_variants.py",
+      "sha256": "79bd5f736bfe61d086882e468cc5d4a8ba63051f7b9314430ab7706a919d9e56",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/architecture/submit_trials.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_activation_lr_trials_20261004/submit_trials.py",
+      "sha256": "83b81da93c5cab520eccbb6e4b4baefbbefaad6da5eecb6baa5bfd1cdeecc394",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/architecture/verify_trials.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_activation_lr_trials_20261004/verify_trials.py",
+      "sha256": "87cf398ac981a8fd9fcee7a66f6d0274cfabd89351f1c6da1090e5c12aca737b",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/common.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/common.py",
+      "sha256": "1dd8e47dc2a744dba4b52603c3c40ca22ae16b6e3650a858e58664f6759c3439",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/dataset_hdf5.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/dataset_hdf5.py",
+      "sha256": "cda665f9bb583b79d5b9cc1e931e750455ff0234419614c66d89e5143a99f359",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/smoothness.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/smoothness.py",
+      "sha256": "324754ee46c493819ab7b181a7533c129f8e0252f29608e8afb23eb4db900b61",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/test_original_loss.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/test_original_loss.py",
+      "sha256": "49c7636daf41e3b73cfea28a706defcc791bff59b60396c101a559e3afce1732",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/test_smoothness.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/test_smoothness.py",
+      "sha256": "0f6c7de5cdaf69518b74a561bbece328d188313476804125bf04deec5ac00eb6",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/test_whitelist.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/test_whitelist.py",
+      "sha256": "2dece0ee929016754f25ce3469ff314eab2c8d7345a82a78c55cf5ea7e0fe034",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/train_lowtfsf_grad01.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/train_lowtfsf_grad01.py",
+      "sha256": "7204b78d69a9556fc9214ef9e6c97e9394107aec58442c242d0e187c66d7d0ee",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/train_sixd_single_longrun.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/train_sixd_single_longrun.py",
+      "sha256": "9d93ee2e510832eb6f86948c80a05f5622dca479ce9754839279a6c3f2f11220",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/train_smooth.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/train_smooth.py",
+      "sha256": "060d02bc5176ea2b6312d8735b3aedcc9ad50f5b09c98fcdcb11d518888e7752",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/code/whitelist_pairs.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/remote_setup_review/code/whitelist_pairs.py",
+      "sha256": "a7f5dd93f631d9bef9e33c1636d62be44efe560e01668b48672b28f5657946a7",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/prepare_submit.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/prepare_submit.py",
+      "sha256": "8944dcd5ca33cf01b2d84f72d5b4abc41f23a0c6e5935ce6f6cf139d9e5f5058",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/verify_pre_submit.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/verify_pre_submit.py",
+      "sha256": "1ad3ce23e0120fe49075766891f2098c852e8b72a192b44c004b6b4e5ab546d5",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/posttraining/checkpoint_gate.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/posttraining/checkpoint_gate.py",
+      "sha256": "d0fcfa25ee5740aa26cd0fa3692b2e849e2d3a7940b644874429106c450040f1",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/posttraining/attach_post.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/posttraining/attach_post.py",
+      "sha256": "eab04ede7135e24b280e4a38c6c7ca2336c8ecf00db8b542e231904fd0ab7ddc",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/posttraining/launch_smooth_post.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/posttraining/launch_smooth_post.py",
+      "sha256": "f836ca712e5c8c31dc609fb4e83fca3bad5e7acfc713899cd9dfd3f5ca692ed7",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/smoothness/posttraining/audit_saved_outputs.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512x5_relu_smooth_finetune_20261004/posttraining/audit_saved_outputs.py",
+      "sha256": "dd4827139b5c4d1f79f28c8a1e3ee3e3c8e0d7216e6e810c90baf2a27216243d",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/submit_C_retry.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/submit_C_retry.py",
+      "sha256": "f2faa76f0ba59903d7d43af967b723b4a102e669ad52f0f57170f2b6c84c4111",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/seed_preflight.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/seed_preflight.py",
+      "sha256": "fe4c77b7cbc2d3ff4bde1d6d46b75a820dc9199d5440d153279defd5544441bc",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/learning_health.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/learning_health.py",
+      "sha256": "57b2f5ee5ad6bb42bb6d2fa5f62fee7a444aea9bd7a3189ef40acc4fcaf441cb",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/checkpoint_gate.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/checkpoint_gate.py",
+      "sha256": "9c035d3f322e9c750b9fe174945d8338ae4e2506ef996fdaced001a11feaf025",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/attach_retry_post.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/attach_retry_post.py",
+      "sha256": "96577ae91a5230b84afa8dea7fb65b74be82320cae0c33608545ee30e31b9942",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/launch_retry_post.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/launch_retry_post.py",
+      "sha256": "e977fc89dcce0365bcfc67670ce9b6407eeba1468694b0d5c824073bcf3221f6",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/retry_policy.json",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/retry_policy.json",
+      "sha256": "23545d9728943ec585c41a48b1c7f44829702844e39e15e962204f32bd5f9b7c",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/audit_saved_retry.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/audit_saved_retry.py",
+      "sha256": "f78ea732fccade3d24f900b2718d27d2c53f2c20b3e97fdfd1ae70788f320c3b",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/experiments/c_seed_retry/recover_retry_archive_20261005.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/recover_retry_archive_20261005.py",
+      "sha256": "e6baf65ee6589fc0c54acfcc21dcc0c0ea442cdb1960e546cc445f80b25a8f0d",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/build_submit_logtfsf_atlas102.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/build_submit_logtfsf_atlas102.py",
+      "sha256": "666deb74726d48210b42b90c1b1c89a417a7e870cc9684844cd35a9b8b54fe41",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/check_h96_library_mapping.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/check_h96_library_mapping.m",
+      "sha256": "989a79b48c5d421730a11ad16a2cf58132006c173dbf0f9f3a3781cb4fab0798",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/dense_nn_driver.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/dense_nn_driver.m",
+      "sha256": "e228c1573388223c18f91d20b1161d3551b8b147880e6371d79e1aa0ba1ecfbe",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/export_archive_curves.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/export_archive_curves.m",
+      "sha256": "e0bc6963c973b93e8219efda8f827a21822696a8f232c0ba9aa7fd48ba63f1ed",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/export_archive_curves_layout.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/export_archive_curves_layout.m",
+      "sha256": "2a9a62b1d3bd9216ccef2cece4e99f947e2568e7d18b649c7d30e8e4bc4ffd92",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/export_comparisons.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/export_comparisons.m",
+      "sha256": "20dab1de94edae3c1975be2fceb7abe567922c65d27b82f7f6dcf7133fd7e2a7",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/export_pref6d_matlab.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/export_pref6d_matlab.py",
+      "sha256": "16afab20b7af615a73f87df1f7e9f2e30abb0bde3b33e5450d2a86a15a8509e4",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/finalize_global_smooth_posttraining.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/finalize_global_smooth_posttraining.py",
+      "sha256": "a9288c70661277bf5090f71be2ed8c32a6ee31c7531b95bd27a57be03b0c3150",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/plot_dense.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/plot_dense.py",
+      "sha256": "e41c41387b1a47da4850eab4d6bac085aabef3b1fcf17d6eaad70864034b45e5",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/plot_h96_7d_orientation_contrast.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/plot_h96_7d_orientation_contrast.m",
+      "sha256": "615effb9b896cb9b3439f0523861812722d7e47ee2a90f09516648aae79c8614",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/plot_sftf_tuning_curves.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/plot_sftf_tuning_curves.m",
+      "sha256": "0954335741cb2525abd2933401a02b8b5f6a7863f181e16155bb7ef1d1a50fbd",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/prepare_archive.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/prepare_archive.py",
+      "sha256": "1b68a6e3292cf0414ba27e536d45dd81708556a287881cb8c8ff45d0a4cc6577",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/prepare_submit_logtfsf_atlas102.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/prepare_submit_logtfsf_atlas102.py",
+      "sha256": "e9e33047786f04f7fd170d0ae056793e7defd7d3e07bad3f0e4ca5f151c14b2b",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/run_archive_exports.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/run_archive_exports.py",
+      "sha256": "dc44bad05b9ece0fb718d81bb62dd2c51c461991123638096640697ff2357b58",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/run_dense_task.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/run_dense_task.m",
+      "sha256": "eaaa12e0baad515c07d940f337247e1b06eb173d6aaf93576f3bad9cfdac5bae",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/submit_archive.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/submit_archive.py",
+      "sha256": "6f13b4c57099334a94a8b3c299b5b7fd5cc11a67ab97b3fa902531a92fabe85a",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/submit_dense.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/submit_dense.py",
+      "sha256": "3b33f5ccff6ffee9af82a719a657be6985ced5a273185b02ea9d78d92ccf9ce3",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/submit_runtime_dense_tuning.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/submit_runtime_dense_tuning.py",
+      "sha256": "7c6e9c281c2b284f2f0870066f2bfbc342d67351740c1d2ab719ab7093aa1a86",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/submit_runtime_tuning_curves_quota.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/submit_runtime_tuning_curves_quota.py",
+      "sha256": "79a205c6bae8d6618ac24799645c3ff8ff0eb2795df82d6acda8bcc38d989400",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/template_code/verify_runtime.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/template_code/verify_runtime.m",
+      "sha256": "6b7c18aacdbf70939f9139e959a9ca552836b707c936521529b17277cd2033b6",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/recovered_archive/run_archive_exports.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h1024x4_relu_Cseed43_retry_20261005/run_archive_exports.py",
+      "sha256": "dc44bad05b9ece0fb718d81bb62dd2c51c461991123638096640697ff2357b58",
+      "role": "saved-data archive recovery used for final delivery"
+    },
+    {
+      "path": "7D/posttraining/launch_trial_post.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_activation_lr_trials_20261004/posttraining/launch_trial_post.py",
+      "sha256": "9a923f4159ab7a3736dc06272af11d026a75a47834073394492d40c19dd0578e",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/attach_post.py",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_activation_lr_trials_20261004/posttraining/attach_post.py",
+      "sha256": "3d31f5b1e5513d3237f33f96bdf0e73726ecde5b7b8966a9f90f5078a11d991d",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/representative_source/dense_nn_driver.m",
+      "source": "artifacts/smooth7_representative192_20260919/code/dense_nn_driver.m",
+      "sha256": "b6e656f745c1e6793dfb3c4a20bbf06436dfd9e7a5636fbebf63b3dbd3bf3d2a",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/representative_source/plot_source_pdf.m",
+      "source": "artifacts/smooth7_representative192_20260919/code/plot_source_pdf.m",
+      "sha256": "0fe5d96a5237e128df2509e7089cc8fa7accc912f5ab4441ba3ab9676cd3f25a",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/representative_source/run_one.m",
+      "source": "artifacts/smooth7_representative192_20260919/code/run_one.m",
+      "sha256": "59caa04611b856f303d189ddd11568729c680d19fe14c969bef90cc86a705603",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/reference_validation/validate_extra50_references.py",
+      "source": "h96_tfsf7d_tf32_extension/validate_extra50_references.py",
+      "sha256": "9adae42f450ac7d5b1a2aaddf58fcbe3d85244fa891662c38ebf551db1080dab",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/code/common.py",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/common.py",
+      "sha256": "e5b4b7e025cbe5ddfa2991fc5e65d0b8bdbf9a0db74823844d708ab8261d7619",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/dataset_hdf5.py",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/dataset_hdf5.py",
+      "sha256": "fce0d769270e1acb49d8837afa10741c787b2e31482d452c962a417fdc6785a4",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/train_sixd_single.py",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/train_sixd_single.py",
+      "sha256": "982430114c9959d7e4a8054c4825a3bce4d7372c7532c78c71a51ee70126ac7a",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/export_pref6d_matlab.py",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/export_pref6d_matlab.py",
+      "sha256": "5fabd86ec4c65cb30e2de75e43b0cd06e5072b9eeeb600ff6c6d69ad57cd2773",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/build_random_row_split_variance_independent.py",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/build_random_row_split_variance_independent.py",
+      "sha256": "4ed44689a3040412501a774b587f9c3e7a6c7f0931e8137177a9e035fa7953df",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/build_split_prefavg_variance_from_smat_and_chunks.py",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/build_split_prefavg_variance_from_smat_and_chunks.py",
+      "sha256": "a126832cb8337c1cff8f4a084ead729fa37832fcbc78e86939368e6e6606c184",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/sixD_trainingdata_generation_prefavg_variance.m",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/sixD_trainingdata_generation_prefavg_variance.m",
+      "sha256": "c89cc2adba9dfb81fd2c58fd68e670ada8f3a5bb3be2874f1e9f3eb9b69b67c4",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/sixD_trainingdata_generation_prefavg_variance_chunk.m",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/sixD_trainingdata_generation_prefavg_variance_chunk.m",
+      "sha256": "a3aa28927a447f7fe45b82befc9185117090c1745c80f78c168f1e37d298ef3c",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/run_sixD_trainingdata_generation_prefavg_variance_target.sh",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/run_sixD_trainingdata_generation_prefavg_variance_target.sh",
+      "sha256": "f892f863cc313ba99f9a8ae8ea595de1f80c9b0d784d126dc065ba09dba4e940",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/run_sixD_prefavg_variance_chunk_array.sh",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/run_sixD_prefavg_variance_chunk_array.sh",
+      "sha256": "d406d65a81a15559a951901b885fa3be3c88ecf44132a7ea972390e09ff2dad3",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/run_build_sixd_random_split_prefavg_variance.sh",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/run_build_sixd_random_split_prefavg_variance.sh",
+      "sha256": "74518cbc8a8b54561d8e3c262b914298ee95f03c8c4ffde9c839e39eb367c7a1",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/code/run_train_sixd_target_splitdir_mat.sh",
+      "source": "Spectral_Analysis/python-training_DNN/sixd_prefAngle/run_train_sixd_target_splitdir_mat.sh",
+      "sha256": "eb6d438179e2e2a24f0c7f8b13ab95d4e5b97f224e03b079ccc4a05f2c32be6d",
+      "role": "local shared 5D training lineage; original May18 execution hash unavailable"
+    },
+    {
+      "path": "Previous 5D training/library_reference/LDEIterFunc_Grating_135Func_RealLGNL6_noreorder.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/LDEIterFunc_Grating_135Func_RealLGNL6_noreorder.m",
+      "sha256": "83624d1d49c2ca104cd7092b24d66c41b6a2fcc355d50a6724dbe737cae8c714",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/library_reference/LDEIteration_135FuncMain_CombDom_RealLGNL6_noreorder.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/LDEIteration_135FuncMain_CombDom_RealLGNL6_noreorder.m",
+      "sha256": "d05baaf3f673097010edb7637dee08027853e00e0f6c97f9cf9a232cfc5f0c90",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/library_reference/Paper3b_0_FuncPrepare_fullnods_smooth2d_one.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/Paper3b_0_FuncPrepare_fullnods_smooth2d_one.m",
+      "sha256": "a2aca3d63413875854a468aaeae1e9d8cee08358304813a37d7f799966a73957",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/library_reference/eigenvalue_6D_library_only_70_fullnods_smooth2d.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/eigenvalue_6D_library_only_70_fullnods_smooth2d.m",
+      "sha256": "972fdc784edc8a857b92f088a6dc89a4dc290aa3bcd67c04591a2aec0ee357a4",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/library_reference/run_case.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/run_case.m",
+      "sha256": "1160fed5deaeb53bdf426ae9f6863db5f83ab561ebffa342fd117bd743f8b3df",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/runtime/LocalResponse_6D_MLP_prefAngle.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/local_h96_manual_runtime/LocalResponse_6D_MLP_prefAngle.m",
+      "sha256": "41c7fdc837617cd66ee81b0a7f7dc2bc3af45ed8c38e67bc3e85abed8b6bb161",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/runtime/predict_pref6D_C.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/local_h96_manual_runtime/predict_pref6D_C.m",
+      "sha256": "1efcf8260cae702885f775e8875e098a9658d09aad7f74631ff701ec28709ae2",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/runtime/predict_pref6D_I.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/local_h96_manual_runtime/predict_pref6D_I.m",
+      "sha256": "6be47fb16e2b913f6cb7957b6b9daad9b6862f9b85fdd05822c4b54c9ac7c971",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/runtime/predict_pref6D_S.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/local_h96_manual_runtime/predict_pref6D_S.m",
+      "sha256": "0eaf440aebc1ad3194c01efb3a807ab8eb03d8dff223a64fdd1565935da6049a",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/runtime/LDEIteration_135FuncMain_CombDom_RealLGNL6_MLP6D_prefAngle.m",
+      "source": "Spectral_Analysis/sixd_prefAngle_varaware_singlemlp_h96_final70_smooth2d_low005_stratmid_torch_20260518_044134/hpc_runtime_bundle/LDEIteration_135FuncMain_CombDom_RealLGNL6_MLP6D_prefAngle.m",
+      "sha256": "f97e8885d583c0d61c839e2b24ddafc9018aa3032f9ef67b63e5f3f979689c05",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/runtime/LDEIterFunc_Grating_135Func_RealLGNL6_MLP6D_prefAngle.m",
+      "source": "Spectral_Analysis/sixd_prefAngle_varaware_singlemlp_h96_final70_smooth2d_low005_stratmid_torch_20260518_044134/hpc_runtime_bundle/LDEIterFunc_Grating_135Func_RealLGNL6_MLP6D_prefAngle.m",
+      "sha256": "ce8f290c6d127e54c413ac4b4778caa188a1c8302a44bbd89c56aa0cf70f595e",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/posttraining/submit_paper2_h96_figure_validation.sh",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/submit_paper2_h96_figure_validation.sh",
+      "sha256": "14ac5d7d99a261ef8efc57dcae7c5b7c5d841f5e430782a60e352e380b3da55b",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/posttraining/evaluate_h96_premodel_pairs.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/evaluate_h96_premodel_pairs.m",
+      "sha256": "db937d9d03ac9b5e6e348c0d0d4dfb8f76be54e05d9755d9d3be9bcd21f43ba0",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/posttraining/simulate_paper2_snn_pixels.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/simulate_paper2_snn_pixels.m",
+      "sha256": "16af95dc17a6c399c2195b3e51112e848849d0c477b3e166eef71afc414d5958",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/posttraining/plot_1_2_premodel_vs_nn_cg.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/plot_1_2_premodel_vs_nn_cg.m",
+      "sha256": "8119b427fe57563de2b0e206ab64e1cf89a2cca3ca386053a7c4ff65a1fb2189",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/posttraining/audit_h96_premodel_mapping.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/audit_h96_premodel_mapping.m",
+      "sha256": "b45687678f9279b38c1af46bff314dda9e51dbe592380ae402906cae53c89b8a",
+      "role": "historical source"
+    },
+    {
+      "path": "Previous 5D training/manuscript_examples/Figure_0A.m",
+      "source": "Spectral_Analysis_Report/Figures/Draft/Figure_0A.m",
+      "sha256": "475b1603a43ae5d53abab880bddcaa16cc2f9c5d6c29931ddf44b8db115283c9",
+      "role": "manuscript lineage evidence; external figure data required"
+    },
+    {
+      "path": "Previous 5D training/manuscript_examples/Figure_1E.m",
+      "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1E.m",
+      "sha256": "dff0576267cdaff38cb8b33127e53a3dd4e945211edc53a118273a9bc0afea68",
+      "role": "manuscript lineage evidence; external figure data required"
+    },
+    {
+      "path": "Previous 5D training/manuscript_examples/Figure_1F.m",
+      "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1F.m",
+      "sha256": "bfbfb5e901fd41f5481436b87a94d43e9761ba6bc0dd36ac55fd515a5765f0ee",
+      "role": "manuscript lineage evidence; external figure data required"
+    },
+    {
+      "path": "Previous 5D training/manuscript_examples/Figure_3C.m",
+      "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3C.m",
+      "sha256": "8338ad5b7f2a0666ea4d5147bd75aff902b62b82f52a83a3067dc290402914b3",
+      "role": "manuscript lineage evidence; external figure data required"
+    },
+    {
+      "path": "Previous 5D training/historical_jobs/submit_sixd_h96_arch_variants_20260522.sh",
+      "source": "hpc_variants/submit_sixd_h96_arch_variants_20260522.sh",
+      "sha256": "3ef6958a29c21795367f748adc72c419db535e337e8dfd6c546972db19659ba9",
+      "role": "later variants, evidence for shared recipe; NOT original h96 submission"
+    },
+    {
+      "path": "Previous 5D training/historical_jobs/train_sixd_archvariant.py",
+      "source": "hpc_variants/train_sixd_archvariant.py",
+      "sha256": "a75fe3f50405af44767c4f90642a6cb6ab37bea115b030f42e5039cf764d0331",
+      "role": "historical source"
+    },
+    {
+      "path": "7D/posttraining/reference_atlas/eigenvalue_7D_tfsf_loop_only_equilibrium_single_condition.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512_posttraining_20261003/h512/collected/posttraining_7d_tf32_globalall7/atlas_139/eigenvalue_7D_tfsf_loop_only_equilibrium_single_condition.m",
+      "sha256": "d558d2fc5fcf7f047a0ad4eb4392ae5c26479f43a6b70a121f089e6edd08a89d",
+      "role": "executed all615 h512 atlas support; no trained predictors included"
+    },
+    {
+      "path": "7D/posttraining/reference_atlas/run_case.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512_posttraining_20261003/h512/collected/posttraining_7d_tf32_globalall7/atlas_139/run_case.m",
+      "sha256": "5087b57461d6327d5d598a87e18b42a9472026ba708cb1fa75274867e55a7921",
+      "role": "executed all615 h512 atlas support; no trained predictors included"
+    },
+    {
+      "path": "7D/posttraining/reference_atlas/runtime_h96iter/LocalResponse_6D_MLP_prefAngle.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512_posttraining_20261003/h512/collected/posttraining_7d_tf32_globalall7/atlas_139/runtime_h96iter/LocalResponse_6D_MLP_prefAngle.m",
+      "sha256": "4ebd8462f9ea63a6a9548bc56eedf341318c4d4672c3eddb4dc57a5e9c98a9bc",
+      "role": "executed all615 h512 atlas support; no trained predictors included"
+    },
+    {
+      "path": "7D/posttraining/reference_atlas/runtime_h96iter/LDEIterFunc_Grating_135Func_RealLGNL6_MLP6D_prefAngle.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512_posttraining_20261003/h512/collected/posttraining_7d_tf32_globalall7/atlas_139/runtime_h96iter/LDEIterFunc_Grating_135Func_RealLGNL6_MLP6D_prefAngle.m",
+      "sha256": "ccc52ae63ef3d0f546eca8243d1e5b7e6fbc9ffed47399a304f8ad81750b5c1e",
+      "role": "executed all615 h512 atlas support; no trained predictors included"
+    },
+    {
+      "path": "7D/posttraining/reference_atlas/runtime_h96iter/LDEIteration_135FuncMain_CombDom_RealLGNL6_MLP6D_prefAngle.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512_posttraining_20261003/h512/collected/posttraining_7d_tf32_globalall7/atlas_139/runtime_h96iter/LDEIteration_135FuncMain_CombDom_RealLGNL6_MLP6D_prefAngle.m",
+      "sha256": "f65305db5d873406d736b56f72e369983131aa76387859b39bb74f65299eb39e",
+      "role": "executed all615 h512 atlas support; no trained predictors included"
+    },
+    {
+      "path": "7D/posttraining/reference_atlas/runtime_h96iter/LDEIterFunc_Grating_135Func_RealLGNL6.m",
+      "source": "manipulated_correction1_20260919/highrate20pct/all615_h512_posttraining_20261003/h512/collected/posttraining_7d_tf32_globalall7/atlas_139/runtime_h96iter/LDEIterFunc_Grating_135Func_RealLGNL6.m",
+      "sha256": "3b0c4b95a5edbfb32eaed138b47c78285c967a2e41fe5c6b78279a1d657b9c84",
+      "role": "executed all615 h512 atlas support; no trained predictors included"
+    },
+    {
+      "path": "Previous 5D training/posttraining/current_h96_utils/L6Convert.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/Utils/L6Convert.m",
+      "sha256": "5a08083283b921ea8bde6988ef3c8154a78f607be092dd385da94e861c4820e7",
+      "role": "hash-matched dependency of manuscript evaluation"
+    },
+    {
+      "path": "Previous 5D training/posttraining/current_h96_utils/L6ConvertRawLocal.m",
+      "source": "artifacts/local_dynamics_20260919/response_reference70/reference/Utils/L6ConvertRawLocal.m",
+      "sha256": "444570cc9c9c125940fefaf44de9e63fcbf1baec5f512cd885749def01bbaa27",
+      "role": "hash-matched dependency of manuscript evaluation"
+    },
+    {
+      "path": "Previous 5D training/posttraining/current_h96_utils/InhMulp.m",
+      "source": "Spectral_Analysis/matlab-inserting_into_CG_model/Complete_Code_for_Paper3/NYU-Vision-2Drive-main/local_h96_L6_IKp_tuning_20260613/local_utils/InhMulp.m",
+      "sha256": "6c74f749974b5199b3c3f76d6cf46fae1923f56f01e3d521398b4d26d421c68a",
+      "role": "hash-matched dependency of manuscript evaluation"
+    }
+  ]
+}

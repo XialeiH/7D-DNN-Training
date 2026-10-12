@@ -1,0 +1,160 @@
+{
+  "run_root": "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h128x4_scratch_fixedbaseline_goodFRgt20_whitelist17_all615DS10_20260928_original_loss",
+  "reference_run": "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h128x4_scratch_fixedbaseline_goodFRgt20_whitelist17_20260927_original_loss",
+  "reference_split": "/scratch/xh2906/librarySCI_runs/h96_tfsf7d_h128x4_scratch_fixedbaseline_goodFRgt20_whitelist17_20260927/data_split_whitelist17",
+  "allowed_tf_sf_pairs": [
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      2.5
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      4,
+      2.5
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      2.5
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      16,
+      2
+    ],
+    [
+      16,
+      2.5
+    ],
+    [
+      16,
+      3
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      24,
+      2.5
+    ],
+    [
+      24,
+      3
+    ]
+  ],
+  "orientations": [
+    0,
+    3.75,
+    7.5,
+    11.25,
+    15,
+    18.75,
+    22.5
+  ],
+  "contrasts": [
+    14,
+    24,
+    33,
+    42,
+    52,
+    61,
+    71,
+    80,
+    89,
+    95
+  ],
+  "foreground_gammas": [
+    0,
+    3.75,
+    7.5,
+    11.25,
+    15,
+    18.75,
+    22.5,
+    26.25,
+    30,
+    33.75,
+    37.5,
+    41.25,
+    45,
+    48.75,
+    52.5,
+    56.25,
+    60,
+    63.75,
+    67.5,
+    71.25,
+    75,
+    78.75,
+    82.5,
+    86.25,
+    90
+  ],
+  "grid_points": 615,
+  "sample_policy": "All valid native DS10 points once, after existing target bounds. No rows32 or 5-percent thinning; no duplicate high-rate augmentation. Deduplicate identical seven-input coordinates across equivalent foreground channels.",
+  "target_bounds": {
+    "S": [
+      0.5,
+      30
+    ],
+    "C": [
+      0.5,
+      100
+    ],
+    "I": [
+      0.5,
+      140
+    ]
+  },
+  "ratios": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "seed": 42,
+  "normalization": "byte-identical reference",
+  "supervised_loss": {
+    "log_RMSE": 0.5,
+    "relative_RMSE": 0.5,
+    "raw_MSE": 0,
+    "relative_denominator": "y+1"
+  },
+  "source_policy": "original7p5 inhibitory LGN; original direct LIF 20 seconds, last-half mean, SCI mixing. Reuse exact retained128 points by coordinate; simulate missing native points. No interpolation or extrapolation.",
+  "simulation_cpus": 8,
+  "simulation_mem": "24G",
+  "simulation_time": "48:00:00",
+  "wave_tasks": 4267,
+  "array_throttle": 4000,
+  "source_units": 4267,
+  "scope": "dataset and three scratch trainings; no new regularity, posttraining or automation"
+}

@@ -1,0 +1,52 @@
+{
+  "checked_utc": "2026-10-12T04:27:37.197235+00:00",
+  "scope": "local source organization; no HPC jobs or MATLAB evaluations started",
+  "source_integrity": {
+    "imported_files": 118,
+    "sha256_matches": true,
+    "all615_training_source_matches_delivered_receipt": true,
+    "normalization_matches_recorded_sha256": true,
+    "five_dimensional_manuscript_runtime_matches_evaluator_hashes": true
+  },
+  "checks": {
+    "python_ast_parse": "passed",
+    "bash_n": "passed",
+    "json_parse": "passed",
+    "markdown_local_links": "passed",
+    "source_grid_contract": "passed",
+    "original_loss_formula_and_gradient": "passed",
+    "whitelist_gradients_parent_algebra_and_baselines": "passed",
+    "smoothness_analytic_and_integration": "passed",
+    "fake_sbatch_submission_tests": {
+      "passed": 5,
+      "cases": [
+        "dry run creates nothing",
+        "three confirmed receipts and duplicate refusal",
+        "partial failure preserves state and blocks resubmission",
+        "invalid normalization refused before submission",
+        "C-only and smoothness recipes refused"
+      ]
+    },
+    "credential_pattern_scan": "no matches",
+    "trainer_and_exporter_cli_help": "passed for 5D trainer/exporter and 7D entry point"
+  },
+  "environment": {
+    "python": "3.9.6",
+    "torch": "2.8.0",
+    "numpy": "2.0.2",
+    "scipy": "1.13.1",
+    "h5py": "3.14.0",
+    "matplotlib": "3.9.4",
+    "recorded_torch_training_environment": "py310 (Python 3.10), anaconda3/2025.06; not rebuilt locally"
+  },
+  "limitations": [
+    "MATLAB not available in local command path; MATLAB execution not repeated",
+    "Existing authenticated Torch SSH control-master access unavailable; no replacement login attempted",
+    "Original May18 5D launch/configuration receipt and final70 generation patch not present locally",
+    "Imported historical submitters retain original paths; fresh deployment requires staged dependencies and path review"
+  ],
+  "warnings": [
+    "Retained tests emit PyTorch scalar-conversion warnings; no assertion failures",
+    "git diff --check reports trailing whitespace in unchanged imported MATLAB sources; retained to preserve exact source hashes. New documentation/helpers pass whitespace checks."
+  ]
+}
